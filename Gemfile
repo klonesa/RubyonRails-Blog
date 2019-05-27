@@ -11,6 +11,8 @@ gem 'sqlite3'
 gem 'carrierwave'
 # Adding Authentication with Devise
 gem 'devise'
+# Gravatar
+gem 'gravtastic'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
