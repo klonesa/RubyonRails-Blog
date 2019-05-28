@@ -7,7 +7,10 @@ ruby '2.5.5'
 gem 'rails', '~> 5.2.3'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
+# Thumbnails with Carrierwave
+gem 'mini_magick', '4.9.3'
 # Upload files in your Ruby applications, map them to a range of ORMs, store them on different backends.
+gem 'graphicsmagick'
 gem 'carrierwave'
 # Adding Authentication with Devise
 gem 'devise'
